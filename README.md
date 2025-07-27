@@ -1,5 +1,8 @@
 # Simple-WEB-EPG-Creator
+Jednoduchý web python skript pre vytvorenie XML-TV EPG.
+
 Simple web python script for creating XML-TV EPG.
+
 Prosty skrypt webowy w języku Python do tworzenia XML-TV EPG.
 
 Potrebuješ EPG pre športové kanály bez neho? Žiadny problém. Vytváraš vlastný TV kanál a chceš jednoducho vytvoriť EPG? Žiadny problém.
