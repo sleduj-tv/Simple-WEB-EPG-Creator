@@ -18,6 +18,8 @@ Potrzebujesz EPG dla kanałów sportowych, które go nie mają? Nie ma problemu.
 apt update
 apt install python3-tk
 pip3 install flask
+or
+apt install python3-flask
 git clone https://github.com/sleduj-tv/Simple-WEB-EPG-Creator
 cd Simple-WEB-EPG-Creator
 python3 app.py
