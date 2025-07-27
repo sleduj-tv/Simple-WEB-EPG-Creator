@@ -11,8 +11,6 @@ Potrzebujesz EPG dla kanałów sportowych, które go nie mają? Nie ma problemu.
 
 <img width="1366" height="640" alt="image" src="https://github.com/user-attachments/assets/2d8702e1-3aae-4a54-ac9a-65baa9b654cf" />
 
-Simple WEB-EPG Creator je script vytvorený vývojárom sleduj-tv na vytvorenie EPG informácií.
-
 ## Inštalácia / Installation / Instalacja
 ```
 apt update
