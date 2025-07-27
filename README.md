@@ -20,3 +20,15 @@ git clone https://github.com/sleduj-tv/Simple-WEB-EPG-Creator
 cd Simple-WEB-EPG-Creator
 python3 app.py
 ```
+
+## Použitie / Use / Użycie
+Add title of program (e.g. Spongebob Squarepants S07E01)
+Add name of TV channel (e.g. Nickelodeon)
+Add TVG-ID of TV channel (e.g. 1-nickelodeon)
+Add Start time (e.g. 01. 01. 1970 00:00)
+Add End time (e.g. 01. 01. 1970 00:00)
+Add Description (e.g. Squidward stars in his own TV show; Squidward tries to sabotage SpongeBob's dance audition.)
+Add Program
+If you need to create next program repeat this procedure.
+Export to XMLTV
+Download
