@@ -18,5 +18,5 @@ apt install python3-tk
 pip3 install flask
 git clone https://github.com/sleduj-tv/Simple-WEB-EPG-Creator
 cd Simple-WEB-EPG-Creator
-python3 simple-webepg-creator.py
+python3 app.py
 ```
