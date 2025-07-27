@@ -106,6 +106,7 @@ def export_xmltv(lang):
         ET.SubElement(elem, "desc", {"lang": lang}).text = p["description"]
 
     tree = ET.ElementTree(root)
+    ET.indent(tree, space="  ", level=0)  # 👍 Formátovanie XML výstupu
     tree.write("epg.xml", encoding="utf-8", xml_declaration=True)
 
     programs.clear()
@@ -118,4 +119,3 @@ def format_time(dt_str):
 
 if __name__ == "__main__":
     app.run(debug=True, host="0.0.0.0", port=5000)
-
