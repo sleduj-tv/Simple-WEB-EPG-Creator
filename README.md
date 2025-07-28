@@ -11,7 +11,7 @@ Do you need EPG for sports channels that don’t have it? No problem. Are you cr
 
 Potrzebujesz EPG dla kanałów sportowych, które go nie mają? Nie ma problemu. Tworzysz własny kanał telewizyjny i potrzebujesz łatwego sposobu na stworzenie EPG? Nie ma problemu.
 
-<img width="1366" height="640" alt="image" src="https://github.com/user-attachments/assets/2d8702e1-3aae-4a54-ac9a-65baa9b654cf" />
+<img width="1365" height="557" alt="image" src="https://github.com/user-attachments/assets/2a2a27a7-318c-430f-8607-ca98d22a3647" />
 
 ## Inštalácia / Installation / Instalacja
 ```
@@ -27,6 +27,8 @@ python3 app.py
 
 ## Použitie / Use / Użycie
 ```
+Select language
+Select timezone
 Add title of program (e.g. Spongebob Squarepants S07E01)
 Add name of TV channel (e.g. Nickelodeon)
 Add TVG-ID of TV channel (e.g. 1-nickelodeon)
